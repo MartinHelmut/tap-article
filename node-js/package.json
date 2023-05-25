@@ -1,0 +1,10 @@
+{
+  "name": "tap-with-node",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "tap": "^16.3.4"
+  }
+}

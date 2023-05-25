@@ -1,0 +1,11 @@
+{
+  "name": "tap-with-stylelint",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "stylelint '**/*.css' --formatter tap"
+  },
+  "devDependencies": {
+    "stylelint": "^15.6.2",
+    "stylelint-config-standard": "^33.0.0"
+  }
+}
